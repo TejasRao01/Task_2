@@ -21,13 +21,16 @@ The components used for this project are:
 3. HUD display
 4. Bluetooth connection transmitter/reciver
 
-#### 2. Part of pipeline to break:
+#### 2. Project mechanism:
+Phone App --> Bluetooth Transciever --> Microcontroller --> HUD display
+#### 3. Part of pipeline to break:
 
 |Part of the Pipeline | Feasibility | Advantages | Disadvantages |
 | --- | --- | --- | --- |
-|Microcontroller||||
-|PCB||||
-|HUD display||||
-|Bluetooth||||
+|Microcontroller|It is difficult to modify this without expertise in manufacturing microcontrollers|It is low-cost, easily programmable and versatile with pre-built functions|It is not a computer and there are limits to the activities that it can perform|
+|PCB|Can be easily designed based on requirements|They are low cost and easy to design. |Difficult to modify once manufactured|
+|HUD display|The display itself cannot be changed but there are several different types of displays to choose from|||
+|Bluetooth tranceiver|Easy to use SPP;widely used also|Low powerconsumption. Betterrange than IR. Cheapin terms of cost.|Low bandwidthcompared to WIFI.Short rangecommunication|
+|Andriod App|Hard to code an app|Can be customised precisely to the requirements|Security might be an issue|
 
-From the above table, it is clear that the 
+From the above table, it is clear that the PCB, transciever and the HUD can be modified. The 
