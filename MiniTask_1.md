@@ -21,4 +21,13 @@ The components used for this project are:
 3. HUD display
 4. Bluetooth connection transmitter/reciver
 
+#### 2. Part of pipeline to break:
 
+|Part of the Pipeline | Feasibility | Advantages | Disadvantages |
+| --- | --- | --- | --- |
+|Microcontroller||||
+|PCB||||
+|HUD display||||
+|Bluetooth||||
+
+From the above table, it is clear that the 
