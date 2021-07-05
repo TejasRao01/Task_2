@@ -33,4 +33,9 @@ Phone App --> Bluetooth Transciever --> Microcontroller --> HUD display
 |Bluetooth tranceiver|Easy to use SPP;widely used also|Low powerconsumption. Betterrange than IR. Cheapin terms of cost.|Low bandwidthcompared to WIFI.Short rangecommunication|
 |Andriod App|Hard to code an app|Can be customised precisely to the requirements|Security might be an issue|
 
-From the above table, it is clear that the PCB, transciever and the HUD can be modified. The 
+From the above table, it is clear that the PCB, transciever and the HUD can be modified. While the Android app also needs to be coded, the task comes in the domain of the PDC team of the project. 
+
+##### Transciever 
+The transciever should have a range of atleast 4 feet, 
+
+##### 
