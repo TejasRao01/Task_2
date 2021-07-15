@@ -36,6 +36,6 @@ Phone App --> Bluetooth Transciever --> Microcontroller --> HUD display
 From the above table, it is clear that the PCB, transciever and the HUD can be modified. While the Android app also needs to be coded, the task comes in the domain of the PDC team of the project. 
 
 ##### Transciever 
-The transciever should have a range of atleast 4 feet, 
+The transciever should have a range of atleast 4 feet, should be inexpensive and as small as possible. Based on market availability, an HC05/06 transciever shuld work and costs around 600-1000 rupees.
 
 ##### 
