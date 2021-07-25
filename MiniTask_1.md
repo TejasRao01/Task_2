@@ -38,4 +38,10 @@ From the above table, it is clear that the PCB, transciever and the HUD can be m
 ##### Transciever 
 The transciever should have a range of atleast 4 feet, should be inexpensive and as small as possible. Based on market availability, an HC05/06 transciever shuld work and costs around 600-1000 rupees.
 
-##### 
+##### Display
+For the display, we have several options that can be implemented. The display can be eithe
+
+
+##### PCB 
+
+The pcb is easy to design using any freely available software and is inexpensive to make. The major design parameter that must be optimized is to ensure that the pcb is as small as possible so as to consume less space. 
