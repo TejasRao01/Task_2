@@ -36,10 +36,10 @@ Phone App --> Bluetooth Transciever --> Microcontroller --> HUD display
 From the above table, it is clear that the PCB, transciever and the HUD can be modified. While the Android app also needs to be coded, the task comes in the domain of the PDC team of the project. 
 
 ##### Transciever 
-The transciever should have a range of atleast 4 feet, should be inexpensive and as small as possible. Based on market availability, an HC05/06 transciever shuld work and costs around 600-1000 rupees.
+The transciever should have a range of atleast 4 feet, should be inexpensive and as small as possible. Based on market availability, an HC05/06 transciever should work and costs around 600-1000 rupees. The currently available options on the market are by DSD Tech, Electrobot (Rs 750, 400 after discount), Omatom Pwer (Rs 300), etc. T
 
 ##### Display
-For the display, we have several options that can be implemented. The display can be eithe
+For the display, we have several options that can be implemented. The display can be either LED or LCD based. Furthermore, the display can be either transparent so as to show images/ maps without interfering without obstructing the view of the road, or can be projector based, with the LED/ LCD projector projecting the image onto a transparent screen. For the former, the currently available options on the market, such a those by sparkfun, crystalfontz, etc. However, the major disadvantage of such a display setup is that such OLED screens are expensive with most market options costing upwards of 500 rupees. Furthermore, the resolution of these screen is low and create the issue of forcing the rider to continously refocus between the road and the screen and the road. The last issue can be resolved by using optics and ensuring an infinity focus. Thus, a projector system would be preferable. The currentley available options include 
 
 
 ##### PCB 
