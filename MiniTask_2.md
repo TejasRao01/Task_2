@@ -21,23 +21,30 @@ This is an existing market product that uses an oled display to display maps whi
 
 5. https://www.digikey.com/en/maker/projects/the-hacksmith-iron-man-helmet-hud/b5510a97c147496980a848817eca9e07
 
-This project is not strictly related to our project, but it does provide some useful ideas for implementing our project. The project basically creates a helmet that uses a camera to project the surroundings onto a screen inside the helmet. The 
+This project is not strictly related to our project, but it does provide some useful ideas for implementing our project. The project basically creates a helmet that uses a camera to project the surroundings onto a screen inside the helmet. The key takeaway from this is the controller s
 
 6. https://www.digitaltrends.com/cars/head-up-display-for-any-helmet/
 
+This is one of the solutions that is available on the market. The design makes use of a transparent LED to display the map. One of the key features that it has, that might be overlooked in our implementation is a light sensor that is used to provide feedback to adjust the brightness of the hud display. The phone is the main computer and the microcontroller is only there to control the display after processing and converting the instructions issued from the phone. As mentioned earlier, the major disadvantage of such a mechanismm is that it does not dispaly the images at infinity and that can be disorienting and distracting to the rider. Since this product is still under development, its price isnt available.  The key takeway from this is proof of concept and its design.
+
 7. https://www.engadget.com/2017-07-27-nuviz-headsup-display.html
 
+This design is an example of an internally mounted display setup. The difference of this product over what we are trying to make is that it does not take up the entire line of sight. Rather,the display is at the bottom of the line of sight of the rider and project all the required information. The setup also includes audio that integrates with the visual display to provide navigational instructions. The advantage of this product is that not using a mirror system reduces that complexity, weight, and increases the versatily of the helmet. The disadvantage of this design is its price which is $700. Another disadvantage is that the display will not be clearly visible if the visor is dirty, which is a problem in the dusty cities. 
+
+
 8.  https://eye-lights.com/en
-9.  https://helmeeet.blogspot.com/2020/01/hud-projector-helmet.html
-10.  https:/https://www.banggood.in/buy/helmet-hud-projector.html
-11.  https://www.banggood.in/buy/helmet-hud-projector.html
-12.  https://motorbikewriter.com/cheaper-lighter-hudway-unit/
-13.  https://www.forbes.com/sites/billroberson/2019/04/18/forbes-gear-review-the-nuviz-head-up-display-brings-the-motorcycle-helmet-into-the-21st-century/?sh=210c4541420f
-14. https://www.rideapart.com/reviews/252623/new-jarvish-smart-helmets-with-hud-and-camera/
-15. https://justhelmet.com/motorcycle-helmet-heads-up-display/
-16. https://newatlas.com/hudway-sight-helmet-hud/56433/
-17. https://innovation-destination.com/electric-vehicles/
-18. https://patents.google.com/patent/US20150209887A1/en
-19. https://www.researchgate.net/publication/301776934_Head-up_displays_in_driving
-20. https://acadpubl.eu/jsi/2017-116-8/articles/8/69.pdf
+This design also uses a transparent non oled display to project the images. While this creates an issue of the image not being formed at infinity, that fact that several products use such a setup suggests that this display design should not be overlooked. The other disadvantage of this products is its cost which is upwards of 500 euros. 
+
+10.  https://helmeeet.blogspot.com/2020/01/hud-projector-helmet.html
+11.  https:/https://www.banggood.in/buy/helmet-hud-projector.html
+12.  https://www.banggood.in/buy/helmet-hud-projector.html
+13.  https://motorbikewriter.com/cheaper-lighter-hudway-unit/
+14.  https://www.forbes.com/sites/billroberson/2019/04/18/forbes-gear-review-the-nuviz-head-up-display-brings-the-motorcycle-helmet-into-the-21st-century/?sh=210c4541420f
+15. https://www.rideapart.com/reviews/252623/new-jarvish-smart-helmets-with-hud-and-camera/
+16. https://justhelmet.com/motorcycle-helmet-heads-up-display/
+17. https://newatlas.com/hudway-sight-helmet-hud/56433/
+18. https://innovation-destination.com/electric-vehicles/
+19. https://patents.google.com/patent/US20150209887A1/en
+20. https://www.researchgate.net/publication/301776934_Head-up_displays_in_driving
+21. https://acadpubl.eu/jsi/2017-116-8/articles/8/69.pdf
 
