@@ -33,18 +33,49 @@ This design is an example of an internally mounted display setup. The difference
 
 
 8.  https://eye-lights.com/en
-This design also uses a transparent non oled display to project the images. While this creates an issue of the image not being formed at infinity, that fact that several products use such a setup suggests that this display design should not be overlooked. The other disadvantage of this products is its cost which is upwards of 500 euros. 
+This design also uses a transparent non oled display to project the images. While this creates an issue of the image not being formed at infinity, that fact that several products use such a setup suggests that this display design should not be overlooked. The other disadvantage of this products is its cost which is upwards of 500 euros.
 
-10.  https://helmeeet.blogspot.com/2020/01/hud-projector-helmet.html
-11.  https:/https://www.banggood.in/buy/helmet-hud-projector.html
-12.  https://www.banggood.in/buy/helmet-hud-projector.html
-13.  https://motorbikewriter.com/cheaper-lighter-hudway-unit/
-14.  https://www.forbes.com/sites/billroberson/2019/04/18/forbes-gear-review-the-nuviz-head-up-display-brings-the-motorcycle-helmet-into-the-21st-century/?sh=210c4541420f
-15. https://www.rideapart.com/reviews/252623/new-jarvish-smart-helmets-with-hud-and-camera/
-16. https://justhelmet.com/motorcycle-helmet-heads-up-display/
-17. https://newatlas.com/hudway-sight-helmet-hud/56433/
-18. https://innovation-destination.com/electric-vehicles/
-19. https://patents.google.com/patent/US20150209887A1/en
-20. https://www.researchgate.net/publication/301776934_Head-up_displays_in_driving
-21. https://acadpubl.eu/jsi/2017-116-8/articles/8/69.pdf
+
+9.  https://helmeeet.blogspot.com/2020/01/hud-projector-helmet.html
+
+This describes a the Nuviz hud technology, by giving a glimpse into the hud display with a exploded image. The design uses a LCOS microdisplay engine for projecting the image and has all the sensors and microcontroller integrated into a compact package. The advantage of this design is that it is compact. However, it carries with it the disadvantage that it is expensive and that the display is external to the helmet, which makes it less visible compared to a internal display. The key takeawy from this design is the display screen and mechanism. 
+
+10.  https://motorbikewriter.com/cheaper-lighter-hudway-unit/
+
+This is another currently existing product that is available on the market. unlike the previous example, the advantage of this product is that the display is internally mounted and thus avoids the disadvanteges that are present in an externally mounted display. The product also allows the image to be formed at infinity which is less distracting while riding. The only disadvantage is that the site does not give the exact detail of the sensors and projectors that are used for the design. The key takeaway for the design is the proof of concept that an internally mounted display is feasible.
+
+11.  https://www.forbes.com/sites/billroberson/2019/04/18/forbes-gear-review-the-nuviz-head-up-display-brings-the-motorcycle-helmet-into-the-21st-century/?sh=210c4541420f
+
+This is same as 9. and is a review on the Nuviz hud display. It also lists the advantages of the product. The main disadvantage of this desgins is the cost which is almost $700. This can serve as a benchmark price that we have to beat for our design. 
+
+
+12. https://www.rideapart.com/reviews/252623/new-jarvish-smart-helmets-with-hud-and-camera/
+
+This is not a mountable HUD display, rather it is a smart helmet with all capabilities built into it. The helmmet features a retractable HUD display and miccrophones and speaker.  The HUD displays such information as speed traveled, speed limit for the area, time, weather, and GPS instructions, as well as caller information. The only issue with design is the price which is $1699 when it hits the market. This is more expensive than most two wheelers available in the indian market. 
+
+13. https://justhelmet.com/motorcycle-helmet-heads-up-display
+  
+
+ CARDO – Motorcycle Helmet Head Up Display:
+ https://www.amazon.com/dp/B07MYB95SX?tag=justhelmet-20&linkCode=osi&th=1&psc=1
+  
+  
+  This product is similar to what we are trying to create. An interesting feature that this feature of this product is a mounted 8MP camera to take photos and videos. The product syncs to the phone via bluetooth and provides the exact kind of functionality that we desire to incorporate into our product. The cost of the product is $425, which is a price that we should actually keep as our benchmark. The helmet is also fully compatible with all helmet designs, requiring an additional mount for compaible with open helmets. The product also includes jbl speakers for audio and a microphone ( which is extra). The main disadvantages ( on reading the reviews) are with the microphone with will not pickup the audio commands perfectly, and bugs with the software. A careful review of the software has to be done inorder to ensure that the experience is glitch free.
+  
+  
+
+
+
+
+14. https://newatlas.com/hudway-sight-helmet-hud/56433/
+
+
+15. https://innovation-destination.com/electric-vehicles/
+
+
+16. https://patents.google.com/patent/US20150209887A1/en
+
+17. https://www.researchgate.net/publication/301776934_Head-up_displays_in_driving
+
+18. https://acadpubl.eu/jsi/2017-116-8/articles/8/69.pdf
 
