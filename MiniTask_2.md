@@ -63,8 +63,9 @@ This is not a mountable HUD display, rather it is a smart helmet with all capabi
   This product is similar to what we are trying to create. An interesting feature that this feature of this product is a mounted 8MP camera to take photos and videos. The product syncs to the phone via bluetooth and provides the exact kind of functionality that we desire to incorporate into our product. The cost of the product is $425, which is a price that we should actually keep as our benchmark. The helmet is also fully compatible with all helmet designs, requiring an additional mount for compaible with open helmets. The product also includes jbl speakers for audio and a microphone ( which is extra). The main disadvantages ( on reading the reviews) are with the microphone with will not pickup the audio commands perfectly, and bugs with the software. A careful review of the software has to be done inorder to ensure that the experience is glitch free.
   
   
-14. 
+14. https://www.youtube.com/watch?v=6mcO6EpT7vI
 
+This project makes use of an OLED screen to project the display onto a transparent display screen with the help of a mirror system. The only issue is that the display is monochromatic and that case quality is poor. However, it is a good proof of concept. 
 
 15. https://patents.google.com/patent/US20150209887A1/en
 
@@ -73,7 +74,6 @@ This is not strictly related to our project, but the feature of interest is the 
 
 16. https://www.researchgate.net/publication/301776934_Head-up_displays_in_driving
 
-This research paper gives a thorough analysis of the various of the huds currently available, listing the challenges faced by current Hud displays and also the various products available in the market. The 
+This research paper gives a thorough analysis of the various of the huds currently available, listing the challenges faced by current Hud displays and also the various products available in the market. One of the challenges listed is that most mud systems display too much information onto the screen, which infact ends up being more distracting than not having the system at all. Thus, it is important to display only the essential information.
 
-17. https://acadpubl.eu/jsi/2017-116-8/articles/8/69.pdf
 
